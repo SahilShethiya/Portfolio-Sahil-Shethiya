@@ -1,5 +1,5 @@
 <template>
-<div class="min-h-screen lg:max-w-screen-xl lg:mx-auto">
+<div class="min-h-screen lg:max-w-screen-xl lg:mx-auto" style="background-color: ghostwhite">
     <app-user-details></app-user-details>
     <app-user-experience></app-user-experience>
     <div class="lg:flex">
